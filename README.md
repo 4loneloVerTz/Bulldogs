@@ -6,6 +6,7 @@ Download all necessary pkgs
 $ git clone 
 $ cd Bulldogs
 $ ls
-$ chmod +x *
+$ chmod +x Bulldog.py
 $ ls
-$ python2 
+$ python2 Bulldog.py
+### Support me ###
